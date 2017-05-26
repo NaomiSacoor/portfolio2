@@ -467,7 +467,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kleineafb5-1400x1050-59.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kleineafb3-1400x1050-33.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -560,7 +560,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kleineafb6-1400x861-14.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kleineafb4-1400x1050-56.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -653,7 +653,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kleineafb5-1400x1050-59.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kleineafb3-1400x1050-33.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -746,7 +746,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kleineafb6-1400x861-14.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kleineafb4-1400x1050-56.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
